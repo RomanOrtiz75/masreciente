@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FENAMAC</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Barra de Navegacion</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="action_termino">Term. y Cond.</string>
+
+    <string name="menu_home">FENAMAC</string>
+    <string name="menu_gallery">Documentos</string>
+    <string name="menu_slideshow">Comisiones</string>
+    <string name="menu_calendario">Calendario</string>
+    <string name="menu_protocolos">Protocolos de seguridad</string>
+    <string name="menu_afiliciones">Afiliaciones</string>
+    <string name="menu_torneos">Torneos</string>
+    <string name="menu_asociaciones">Asociaciones</string>
+    <string name="menu_arbitraje">Arbitraje</string>
+    <string name="menu_rating">Rating</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

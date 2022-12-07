@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/icons8_p_gina_principal_120___"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/icons8_documento_120___"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/calendarioFragment"
+            android:icon="@drawable/icons8_calendario_120___"
+            android:title="@string/menu_calendario" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/icons8_documento_120___"
+            android:title="@string/menu_slideshow" />
+        <item
+            android:id="@+id/pruebaFragment"
+            android:icon="@drawable/icons8_m_scara_de_protecci_n_96"
+            android:title="@string/menu_protocolos" />
+        <item
+            android:id="@+id/afiliacionesFragment"
+            android:icon="@drawable/icons8_documento_120___"
+            android:title="@string/menu_afiliciones" />
+        <item
+            android:id="@+id/pruebaFragment"
+            android:icon="@drawable/icons8_trofeo_100"
+            android:title="@string/menu_torneos" />
+        <item
+            android:id="@+id/pruebaFragment"
+            android:icon="@drawable/icons8_documento_120___"
+            android:title="@string/menu_asociaciones" />
+        <item
+            android:id="@+id/arbitrajeFragment"
+            android:icon="@drawable/icons8_documento_120___"
+            android:title="@string/menu_arbitraje" />
+        <item
+            android:id="@+id/pruebaFragment"
+            android:icon="@drawable/icons8_documento_120___"
+            android:title="@string/menu_rating" />
+    </group>
+</menu>
